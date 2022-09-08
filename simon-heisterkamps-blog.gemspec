@@ -1,14 +1,14 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "alembic-jekyll-theme"
-  spec.version       = "4.1.0"
-  spec.authors       = ["David Darnes"]
-  spec.email         = ["me@daviddarnes.com"]
+  spec.name          = "simon-heisterkamps-blog"
+  spec.version       = "1.0.0"
+  spec.authors       = ["Simon Heisterkamp"]
+  spec.email         = ["simon@heisterkamp.dk"]
 
-  spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
-  spec.homepage      = "https://alembic.darn.es"
+  spec.summary       = %q{Simon Heisterkamp blog}
+  spec.description   = "Simon Heisterkamp blog"
+  spec.homepage      = "https://heisterkamp.dk"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
