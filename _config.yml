@@ -44,7 +44,7 @@ author: SimonHeisterkamp # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Simon Heisterkamp # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/simon-heisterkamp-9827a825/
+    - https://www.linkedin.com/in/simon-heisterkamp/
     - https://github.com/mrmasterplan
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
@@ -123,7 +123,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/sjfheisterkamp
-  LinkedIn: https://www.linkedin.com/in/simon-heisterkamp-9827a825/
+  LinkedIn: https://www.linkedin.com/in/simon-heisterkamp/
   GitHub: https://github.com/mrmasterplan
   link: https://heisterkamp.dk
   RSS: /feed.xml
